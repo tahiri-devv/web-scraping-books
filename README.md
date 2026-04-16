@@ -1,4 +1,3 @@
-# web-scraping-books
 # 📚 Web Scraping Books Project
 
 Un script Python de web scraping qui extrait automatiquement les livres depuis le site **Books to Scrape** et parcourt plusieurs pages.
